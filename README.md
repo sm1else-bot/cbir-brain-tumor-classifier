@@ -7,7 +7,7 @@ Naga Harshith Bezawada - 19BCE1547
 <br>Jessenth Ebenezer S - 19BCE1462
 <br>Tejas V - 19BCE1607
 
-<b>Video Demonstration Google Drive Line</b><br>
+<b>Video Demonstration Google Drive Link</b><br>
 https://drive.google.com/file/d/1ZbHFbHPjKhZzwgultOjdXruxv5BoEm59/view?usp=sharing
 
 <b>Steps to run the CBIR System:</b>
